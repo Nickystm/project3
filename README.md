@@ -10,12 +10,12 @@
 5. Диаграмму классов для системы.
 
 Предоставлено несколько способов для открытия UML-диаграмм:
-1) Открытие общего файла со всеми диаграммами через google drive.
+1) Открытие общего файла со всеми диаграммами через компьютер и google drive.
 * Открываем ссылку: https://drive.google.com/file/d/1gorup0ptbNLQx_9W_JoLYt8wQw3AxFCo/view?usp=sharing
 * Нажать на эту кнопку:
   
   <img width="220" alt="Снимок экрана 2024-05-28 в 18 20 11" src="https://github.com/Nickystm/project3/assets/167700874/e4a58245-c3a0-426b-b023-945fb0e3ebd8">
-2) Перейти по ссылкам.
+2) Перейти по ссылкам с любого устройства.
 * Диаграмма вариантов использования. https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1gorup0ptbNLQx_9W_JoLYt8wQw3AxFCo%26export%3Ddownload
 * Диаграмма последовательности для процесса заказа еды через приложение. https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=CjHEgpYlPO23gQZJdxKg&title=%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1gorup0ptbNLQx_9W_JoLYt8wQw3AxFCo%26export%3Ddownload
 * Диаграмма состояний для заказа. https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=zGRalhDBLRNN9wPJ41dM&title=%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1gorup0ptbNLQx_9W_JoLYt8wQw3AxFCo%26export%3Ddownload
